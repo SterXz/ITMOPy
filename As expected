@@ -1,1 +1,4 @@
-Nobody expects the spanish inquisition
+def unexpected():
+  print('Nobody expects the spanish inquisition')
+
+unexpected()
